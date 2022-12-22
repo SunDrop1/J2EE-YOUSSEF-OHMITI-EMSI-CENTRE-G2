@@ -1,0 +1,22 @@
+.save-button {
+  background-color: #DCDCDC;
+  font-family: "Arial Black";
+  padding:8px;
+  border-radius: 2em;
+  margin:10px;
+  border-color: antiquewhite;
+}
+.save-button:hover{
+  background-color: antiquewhite;
+}
+.delete-button{
+  background-color: darksalmon;
+  font-family: Bahnschrift;
+  padding:8px;
+  border-radius: 2em;
+  margin:10px;
+  border-color: ;
+}
+.delete-button:hover{
+  background-color: #add8e6;
+}

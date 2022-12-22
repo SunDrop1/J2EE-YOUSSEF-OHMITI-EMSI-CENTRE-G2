@@ -1,0 +1,19 @@
+form{
+  width: 500px;
+
+}
+.formulaire{
+  position: absolute;
+  top: 150px;
+  right: 600px;
+  padding: 20px;
+}
+
+.btn{
+  color: black;
+  border-color: #add8e6;
+}
+.btn:hover{
+  background-color: #add8e6;
+  color: bisque;
+}
